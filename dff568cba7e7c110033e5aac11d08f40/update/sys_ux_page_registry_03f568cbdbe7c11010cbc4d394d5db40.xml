@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>43f568cb7ce7c110d0addbb0cd054840</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login", "logout": "login", "custom404":"custom404"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>x_826634_mydocum_0-doc-approval/portal</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:37</sys_created_on>
+        <sys_id>03f568cbdbe7c11010cbc4d394d5db40</sys_id>
+        <sys_name>mydocument Portal</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_page_registry_03f568cbdbe7c11010cbc4d394d5db40</sys_update_name>
+        <title>mydocument Portal</title>
+    </sys_ux_page_registry>
+</record_update>

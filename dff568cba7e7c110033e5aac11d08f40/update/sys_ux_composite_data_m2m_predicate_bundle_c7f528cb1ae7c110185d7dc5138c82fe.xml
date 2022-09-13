@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="doc-approval-get-all">87f528cbb8e7c110ac46ea5260ddfaff</dataset>
+        <order>1</order>
+        <predicate_bundle display_value="document-approval-view-config-bundle">4ff528cbe3e7c11030b564e37a2e78fe</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:38</sys_created_on>
+        <sys_id>c7f528cb1ae7c110185d7dc5138c82fe</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_c7f528cb1ae7c110185d7dc5138c82fe</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

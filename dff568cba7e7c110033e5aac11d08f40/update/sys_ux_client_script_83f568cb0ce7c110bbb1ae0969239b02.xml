@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="List">8bf568cb6ce7c110995fdeeb40172903</macroponent>
+        <name>List CRUD </name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, imports}) {
+  let type = '';
+	if(event.name === "NOW_RECORD_LIST_CONNECTED#SAVE_AS_REQUESTED" || event.name  === "NOW_RECORD_LIST_CONNECTED#SAVE_REQUESTED") {
+		type = "CREATE";
+	}
+	else if (event.name  ===  "NOW_RECORD_LIST_CONNECTED#DELETE_REQUESTED") {
+		type = "DESTROY";
+	}
+	else if (event.name  ===  "NOW_RECORD_LIST_CONNECTED#RENAME_REQUESTED" ||  event.name  ===  "NOW_RECORD_LIST_CONNECTED#EDIT_COLUMNS_REQUESTED") {
+		type = "UPDATE";
+	}
+
+	const CRUD = {
+		type: type,
+		options: event.payload.update,
+		timestamp: event.payload.timestamp
+	};
+	
+	api.setState('CRUD', CRUD);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:05</sys_created_on>
+        <sys_id>83f568cb0ce7c110bbb1ae0969239b02</sys_id>
+        <sys_name>List CRUD</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_client_script_83f568cb0ce7c110bbb1ae0969239b02</sys_update_name>
+        <target>macroponent</target>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

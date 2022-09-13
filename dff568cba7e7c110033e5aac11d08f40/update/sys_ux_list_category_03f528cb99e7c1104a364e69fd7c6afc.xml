@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="mydocument - Workspace">cff528cb55e7c1109784526a48b572fb</configuration>
+        <description/>
+        <order>10</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>03f528cb99e7c1104a364e69fd7c6afc</sys_id>
+        <sys_name>Document Approvals</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_list_category_03f528cb99e7c1104a364e69fd7c6afc</sys_update_name>
+        <title>Document Approvals</title>
+    </sys_ux_list_category>
+</record_update>

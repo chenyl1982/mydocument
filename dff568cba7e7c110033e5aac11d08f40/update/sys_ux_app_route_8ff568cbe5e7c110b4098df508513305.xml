@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config/>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId,referenceField,label,serializedChanges,encodedRecord,size</fields>
+        <icon/>
+        <name>DA Modal Ref Lookup</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">0bf568cb8ce7c1105eda6d5000b4ba09</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>modal_ref_lookup</route_type>
+        <screen_type display_value="DA Modal Ref Lookup">c8ddd091ff53101035be517f793bf13d</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:42</sys_created_on>
+        <sys_id>8ff568cbe5e7c110b4098df508513305</sys_id>
+        <sys_name>DA Modal Ref Lookup</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_app_route_8ff568cbe5e7c110b4098df508513305</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ff568cbe5e7c110b4098df508513305"/>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Document Approval Table</name>
+        <retention_policy/>
+        <source>x_826634_mydocum_0_document_approval</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:01</sys_created_on>
+        <sys_id>4ff568cb11e7c110510a1cdb5de7853f</sys_id>
+        <sys_name>Document Approval Table</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>ais_datasource_4ff568cb11e7c110510a1cdb5de7853f</sys_update_name>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

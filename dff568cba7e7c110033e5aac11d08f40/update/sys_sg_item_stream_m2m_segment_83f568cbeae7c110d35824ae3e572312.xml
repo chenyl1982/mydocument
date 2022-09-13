@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="New Document Aprpovals Item Stream">47f568cbaae7c1103c1876b1ca5b3e13</item_stream>
+        <segment display_value="Item Stream Segment">c3f568cb97e7c11045aae9aca027f612</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:51</sys_created_on>
+        <sys_id>83f568cbeae7c110d35824ae3e572312</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_83f568cbeae7c110d35824ae3e572312</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

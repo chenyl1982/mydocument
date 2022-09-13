@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>comments</name>
+        <parent>03f568cb2ee7c1107572232de3b3a115</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:42</sys_created_on>
+        <sys_id>0ff568cb39e7c110d1b11e69210b8915</sys_id>
+        <sys_name>comments</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_0ff568cb39e7c110d1b11e69210b8915</sys_update_name>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

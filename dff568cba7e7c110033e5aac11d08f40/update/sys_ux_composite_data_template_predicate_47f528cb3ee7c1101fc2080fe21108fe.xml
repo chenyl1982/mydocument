@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="v_search_genius_result">model=cff568cb9ee7c110dae5db3e0de13919^EQ<item endquery="false" field="model" goto="false" newquery="false" operator="=" or="false" value="cff568cb9ee7c110dae5db3e0de13919"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.name,columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.number,columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.description,columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.submitter,columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.status,columns.var__m_sys_search_genius_result_field_cff568cb9ee7c110dae5db3e0de13919.approval_category</field_list>
+        <name>Document Approval Genius Result</name>
+        <order>100</order>
+        <predicate_bundle display_value="Document Approval Search Bundle">cbf528cbe2e7c110c12d50be4468b9fe</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:39</sys_created_on>
+        <sys_id>47f528cb3ee7c1101fc2080fe21108fe</sys_id>
+        <sys_name>Document Approval Genius Result</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_47f528cb3ee7c1101fc2080fe21108fe</sys_update_name>
+        <table>v_search_genius_result</table>
+        <ux_template display_value="Document Approval Genius Result">0bf528cb35e7c110164aa2227124aafe</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

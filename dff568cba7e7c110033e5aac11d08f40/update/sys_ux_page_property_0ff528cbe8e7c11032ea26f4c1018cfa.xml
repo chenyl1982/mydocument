@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="mydocument Workspace">cff568cbf7e7c1106653a9ece2f0a23f</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0ff528cbe8e7c11032ea26f4c1018cfa</sys_id>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_page_property_0ff528cbe8e7c11032ea26f4c1018cfa</sys_update_name>
+        <type>json</type>
+        <unique_name>x_826634_mydocum_0.cff568cbf7e7c1106653a9ece2f0a23f.root.chrome_tab</unique_name>
+        <value>{&#13;
+  "contextual": [&#13;
+    "details"&#13;
+  ],&#13;
+  "maxMainTabLimit": 10,&#13;
+  "maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0ff528cbe8e7c11032ea26f4c1018cfa"/>
+</record_update>

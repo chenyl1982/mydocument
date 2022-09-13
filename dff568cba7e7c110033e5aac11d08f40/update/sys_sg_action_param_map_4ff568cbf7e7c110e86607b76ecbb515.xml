@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Return document">8ff568cb25e7c1109f5ec3f43e008c15</button>
+        <item_parameter display_value="comments">0ff568cb39e7c110d1b11e69210b8915</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:44</sys_created_on>
+        <sys_id>4ff568cbf7e7c110e86607b76ecbb515</sys_id>
+        <sys_name>0ff568cb39e7c110d1b11e69210b8915</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_4ff568cbf7e7c110e86607b76ecbb515</sys_update_name>
+        <ui_parameter display_value="Reason for returning">0bf568cb3de7c110133f3041fb621116</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

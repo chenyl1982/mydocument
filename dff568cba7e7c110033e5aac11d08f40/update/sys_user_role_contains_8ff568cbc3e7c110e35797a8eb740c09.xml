@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_826634_mydocum_0.approver" name="x_826634_mydocum_0.approver">07f568cb72e7c110a5a08e033768a640</contains>
+        <role display_value="x_826634_mydocum_0.admin" name="x_826634_mydocum_0.admin">c3f568cbdde7c1108d0214dadcd25540</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+        <sys_id>8ff568cbc3e7c110e35797a8eb740c09</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_user_role_contains_8ff568cbc3e7c110e35797a8eb740c09</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

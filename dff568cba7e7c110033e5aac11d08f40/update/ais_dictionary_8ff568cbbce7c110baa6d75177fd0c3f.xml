@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>720</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>true</case_sensitive>
+        <data_source>sn_doc_approval_document_approval</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>Document Approval Search Profile Default Spell Check Dictionary</label>
+        <last_derived>2021-01-27 02:58:34</last_derived>
+        <locale>en</locale>
+        <name>x_826634_mydocum_0_document_approval_sea</name>
+        <publish_id>9a946091-7bb9-4cf3-a298-cf34bf7d3ca4</publish_id>
+        <punctuation_sensitive>true</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:02</sys_created_on>
+        <sys_id>8ff568cbbce7c110baa6d75177fd0c3f</sys_id>
+        <sys_name>x_826634_mydocum_0_document_approval_sea</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>ais_dictionary_8ff568cbbce7c110baa6d75177fd0c3f</sys_update_name>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

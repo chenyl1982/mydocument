@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="87f568cbd2e7c110054b7009b264bb0e" sys_domain="global" table="x_826634_mydocum_0_document_approval_category" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>cff568cbd8e7c11036794800885d8e0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>43f568cb7fe7c110b1137096fc78910e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>03f568cb77e7c11009a600f873a2970e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>use_flow</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>c3f568cb90e7c1106a2d91bc9724330e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>47f568cb02e7c110ae5254c520ff150d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>0ff568cbb9e7c110b082cf0bf611710d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_id>4bf568cba2e7c110f67e9c3c6a8f890d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_826634_mydocum_0_document_approval_category" sys_domain="global" view="9d67fe2345910110a86630cf9552f387">87f568cbd2e7c110054b7009b264bb0e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 05:50:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_826634_mydocum_0_document_approval_category</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87f568cbd2e7c110054b7009b264bb0e</sys_id>
+            <sys_name>x_826634_mydocum_0_document_approval_category</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+            <sys_update_name>sys_ui_section_87f568cbd2e7c110054b7009b264bb0e</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">9d67fe2345910110a86630cf9552f387</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

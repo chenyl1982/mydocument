@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Navigate to needs attention">cbf568cbb8e7c110d256fb181f2f1814</jump_to_screen>
+        <name>Needs Attention</name>
+        <report display_value="Needs Attention">8bf568cbb6e7c11034632f5f5b59aa1a</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:04</sys_created_on>
+        <sys_id>87f568cb05e7c110a5c0d52b1f340114</sys_id>
+        <sys_name>Needs Attention</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_chart_87f568cb05e7c110a5c0d52b1f340114</sys_update_name>
+        <title>Needs Attention</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>
