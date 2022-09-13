@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_07_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:55</sys_created_on>
+        <sys_id>47f568cb0de7c1100941be605ef53c10</sys_id>
+        <sys_name>text_07_element</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_47f568cb0de7c1100941be605ef53c10</sys_update_name>
+        <view_config display_value="Document Approvals View Config">4bf568cb1ee7c110f31af68b99128213</view_config>
+        <view_template_slot display_value="text_07">c3f568cb2ce7c11033e9188a6be4ff10</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

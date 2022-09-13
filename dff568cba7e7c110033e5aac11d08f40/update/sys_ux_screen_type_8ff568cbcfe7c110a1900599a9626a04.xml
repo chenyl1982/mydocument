@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>List</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:46</sys_created_on>
+        <sys_id>8ff568cbcfe7c110a1900599a9626a04</sys_id>
+        <sys_name>List</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_screen_type_8ff568cbcfe7c110a1900599a9626a04</sys_update_name>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=8ff568cbcfe7c110a1900599a9626a04"/>
+</record_update>

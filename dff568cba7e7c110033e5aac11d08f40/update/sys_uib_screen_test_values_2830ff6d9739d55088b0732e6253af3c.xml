@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{ }</macroponent_config>
+        <screen display_value="c_my-user-info  customized">83ef6f6d9739d55088b0732e6253afa8</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-08 01:04:24</sys_created_on>
+        <sys_id>2830ff6d9739d55088b0732e6253af3c</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_2830ff6d9739d55088b0732e6253af3c</sys_update_name>
+    </sys_uib_screen_test_values>
+</record_update>

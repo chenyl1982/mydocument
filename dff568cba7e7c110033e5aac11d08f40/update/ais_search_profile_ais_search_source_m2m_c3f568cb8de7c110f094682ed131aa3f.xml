@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Document Approval Search Profile">0bf568cba0e7c1105a36b4eabee6e23f</profile>
+        <search_source display_value="Document Approval">c7f568cb50e7c1109e6f4e899c29c53f</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:38</sys_created_on>
+        <sys_id>c3f568cb8de7c110f094682ed131aa3f</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_c3f568cb8de7c110f094682ed131aa3f</sys_update_name>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

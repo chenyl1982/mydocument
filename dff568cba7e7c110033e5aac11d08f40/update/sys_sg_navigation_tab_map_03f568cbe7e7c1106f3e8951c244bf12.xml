@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="Dcoument Approval">07f568cb51e7c110a549220059d78215</navigation_tab>
+        <order>35</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:03</sys_created_on>
+        <sys_id>03f568cbe7e7c1106f3e8951c244bf12</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_03f568cbe7e7c1106f3e8951c244bf12</sys_update_name>
+    </sys_sg_navigation_tab_map>
+</record_update>

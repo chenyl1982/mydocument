@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Change in state of document approval table</description>
+        <event_name>x_826634_mydocum_0.notification_event</event_name>
+        <fired_by>Single Stage Approval Workflow for Document Approval</fired_by>
+        <queue/>
+        <suffix>notification_event</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:56</sys_created_on>
+        <sys_id>4ff568cba4e7c1105d4d06cc3365a138</sys_id>
+        <sys_name>x_826634_mydocum_0.notification_event</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sysevent_register_4ff568cba4e7c1105d4d06cc3365a138</sys_update_name>
+        <table/>
+    </sysevent_register>
+</record_update>

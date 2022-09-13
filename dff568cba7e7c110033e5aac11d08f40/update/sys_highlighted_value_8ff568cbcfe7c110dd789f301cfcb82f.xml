@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value">
+    <sys_highlighted_value action="INSERT_OR_UPDATE">
+        <field>status</field>
+        <sys_class_name>sys_highlighted_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:45</sys_created_on>
+        <sys_id>8ff568cbcfe7c110dd789f301cfcb82f</sys_id>
+        <sys_name>status</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_highlighted_value_8ff568cbcfe7c110dd789f301cfcb82f</sys_update_name>
+        <table>x_826634_mydocum_0_document_approval</table>
+        <workspace/>
+    </sys_highlighted_value>
+</record_update>

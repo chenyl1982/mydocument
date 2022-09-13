@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_826634_mydocum_0.Public - Document Approval</api_name>
+        <description/>
+        <name>Public - Document Approval</name>
+        <roles name="public">b0593b350a0a0aa7001d689e4542dc28</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:51:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ff568cb49e7c110a99ab16c75e66b08</sys_id>
+        <sys_name>Public - Document Approval</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_applicability_4ff568cb49e7c110a99ab16c75e66b08</sys_update_name>
+    </sys_ux_applicability>
+</record_update>

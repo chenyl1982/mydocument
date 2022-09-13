@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="navigation">d46f400473211010c342d5fdbdf6a7cf</declarative_action_assignment>
+        <predicate display_value="Document Approval Search Config">83f528cb9ce7c1103265c90d599d28fe</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:57</sys_created_on>
+        <sys_id>03f528cb17e7c11034cfb368fbcaf5fa</sys_id>
+        <sys_name/>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_03f528cb17e7c11034cfb368fbcaf5fa</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

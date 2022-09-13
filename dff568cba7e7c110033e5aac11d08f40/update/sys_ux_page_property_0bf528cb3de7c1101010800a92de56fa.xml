@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>global_search_configurations</name>
+        <page display_value="mydocument Portal">03f568cbdbe7c11010cbc4d394d5db40</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>0bf528cb3de7c1101010800a92de56fa</sys_id>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>sys_ux_page_property_0bf528cb3de7c1101010800a92de56fa</sys_update_name>
+        <type>json</type>
+        <unique_name>x_826634_mydocum_0.03f568cbdbe7c11010cbc4d394d5db40.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "07f568cb69e7c110b18979640124701a"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=0bf528cb3de7c1101010800a92de56fa"/>
+</record_update>

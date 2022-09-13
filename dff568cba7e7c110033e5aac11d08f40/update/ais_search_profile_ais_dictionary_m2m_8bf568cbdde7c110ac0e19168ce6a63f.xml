@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Document Approval Search Profile">0bf568cba0e7c1105a36b4eabee6e23f</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 05:50:52</sys_created_on>
+        <sys_id>8bf568cbdde7c110ac0e19168ce6a63f</sys_id>
+        <sys_name>default_synonym_dictionary.Document Approval Search Profile</sys_name>
+        <sys_package display_value="mydocument" source="x_826634_mydocum_0">dff568cba7e7c110033e5aac11d08f40</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mydocument">dff568cba7e7c110033e5aac11d08f40</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_8bf568cbdde7c110ac0e19168ce6a63f</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
